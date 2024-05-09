@@ -1,5 +1,5 @@
 %%   This package is provided (written and created) by Kristina P. Sinaga 
-%%   Copyright (c) 2023 Kristina P. Sinaga 
+%%   Copyright (c) 2024 Kristina P. Sinaga 
 %%   All rights reserved
 %%   Contact :  krist.p.sinaga@gmail.com
 %%   ------------------------------------------------------------------- %%
