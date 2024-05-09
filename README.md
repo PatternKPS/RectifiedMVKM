@@ -20,4 +20,8 @@ These computer programs are free software: you can redistribute them
 and/or modify them.
 
 
+
+
+## Declaration
+
 The author declares that she has written this paper independently, without external support and without using other than the indicated aids.
