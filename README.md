@@ -1,5 +1,7 @@
 # RectifiedMVKM
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/rectified-gaussian-kernel-multi-view-k-means/multiview-clustering-on-nus-wide)](https://paperswithcode.com/sota/multiview-clustering-on-nus-wide?p=rectified-gaussian-kernel-multi-view-k-means)
+
 - This repository contains Matlab code used for the numerical experiments described in http://arxiv.org/abs/2405.05619. 
 
 - This software should run with any reasonably recent version of Matlab.
